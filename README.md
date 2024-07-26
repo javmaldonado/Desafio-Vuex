@@ -1,19 +1,11 @@
-# desafio-vuex
+##Desafío Vuex
 
-## Project setup
-```
-npm install
-```
+En este código 
+1. Se crea un proyecto con Vue CLI que incluya únicamente Babel y Vuex  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2. Aloja el JSON entregado de juegos en el estado global de la aplicación.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+3. Utiliza mapState para el consumo de los juegos en el componente App.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. Utiliza actions para modificar el stock (+,-) de los videojuegos. 
+
