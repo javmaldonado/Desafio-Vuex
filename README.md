@@ -1,4 +1,4 @@
-##Desafío Vuex
+## Desafío Vuex
 
 En este código 
 1. Se crea un proyecto con Vue CLI que incluya únicamente Babel y Vuex  
